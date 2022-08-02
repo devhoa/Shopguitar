@@ -6,4 +6,4 @@
 - view products
 - filter products
 - update profile.
-![Shopguitar](/prview.png)
+![Shopguitar](/preview.jpg)
